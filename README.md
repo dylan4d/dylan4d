@@ -3,5 +3,3 @@
 [linkedin](https://linkedin.com/in/dylanbforde)
 
 [email](mailto:forde.dylan@gmail.com)
-
-[codeacademy](https://www.codecademy.com/profiles/DylanFordey)
