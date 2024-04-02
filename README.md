@@ -4,7 +4,7 @@
 
 ### Reinforcement Learning Enthusiast
 
-I'm deeply passionate about the potential of reinforcement learning to solve complex, dynamic problems. Here, you'll find my explorations and contributions to this fascinating field.
+I'm deeply passionate about the potential of reinforcement learning to solve complex, dynamic problems. Here, you'll find my explorations and contributions to this field.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Dylan_Forde-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/dylanbforde)](https://linkedin.com/in/dylanbforde)
 [![Email Badge](https://img.shields.io/badge/-Email_me_Directly-2C2D72?style=flat&logo=Gmail&logoColor=white&link=mailto:forde.dylan@gmail.com)](mailto:forde.dylan@gmail.com)
